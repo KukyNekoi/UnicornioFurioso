@@ -1,0 +1,16 @@
+#ifndef MESSAGES_H
+
+#define COMMAND_STOP '0'
+#define COMMAND_FORWARD '1'
+#define COMMAND_TURN_LEFT '3'
+#define COMMAND_TURN_RIGHT '2'
+#define COMMAND_CENTER '4'
+#define COMMAND_SOUND '5'
+#define COMMAND_DRIFT_LEFT '6'
+#define COMMAND_DRIFT_RIGHT '7'
+#define COMMAND_BACKWARD '8'
+#define COMMAND_SILENCE '9'
+#define COMMAND_DRIFT_STOP 'a'
+
+#define MESSAGES_H
+#endif 
